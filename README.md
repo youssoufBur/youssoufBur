@@ -2,10 +2,9 @@
 
 ## Bonjour à tous! 👋
 
-<p style="text-decoration:justify">Je suis Issouf SANA , un amateur des codes.J'aime tout ce qui 
+Je suis Issouf SANA , un amateur des codes.J'aime tout ce qui 
 
-est numérique. J'ai le sens de la collaboration, de l'écoute, du respect de la hiérarchie, et d'esprit d'équipe.
-</p>
+est numérique. J'ai le sens de la collaboration, de l'écoute, du respect de la hiérarchie, et d'esprit d'équipe
 <!--
 **youssoufBur/youssoufBur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
