@@ -2,7 +2,7 @@
 
 ## Bonjour à tous! 👋
 
-<p style="text-decoration:justify">Je suis __Issouf SANA__ , un amateur des codes.J'aime tout ce qui 
+<p style="text-decoration:justify">Je suis Issouf SANA , un amateur des codes.J'aime tout ce qui 
 
 est numérique. J'ai le sens de la collaboration, de l'écoute, du respect de la hiérarchie, et d'esprit d'équipe.
 </p>
