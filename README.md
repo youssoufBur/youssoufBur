@@ -1,5 +1,11 @@
-### Hi there 👋
+<center><img src="https://th.bing.com/th/id/OIP.2oR6mk7ATz2eu1ynBv1KAQHaE7?w=249&h=180&c=7&r=0&o=5&pid=1.7" alt="une image" style="boder-raduis:50%"></center>
 
+## Bonjour à tous! 👋
+
+<p style="text-decoration:justify">Je suis __Issouf SANA__ , un amateur des codes.J'aime tout ce qui 
+
+est numérique. J'ai le sens de la collaboration, de l'écoute, du respect de la hiérarchie, et d'esprit d'équipe.
+</p>
 <!--
 **youssoufBur/youssoufBur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
